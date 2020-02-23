@@ -1,2 +1,2 @@
 # pimouse_setup
-Rasoberry Piで学ぶROSロボット入門の為のRaspiMouse用
+本「Rasoberry Piで学ぶROSロボット入門」の勉強の為のRaspiMouse用
